@@ -3,6 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+
 <p align="center">
   <a href="https://discord.com/users/331034889736683532">
     <img src="https://discord.c99.nl/widget/theme-4/331034889736683532.png"/>
